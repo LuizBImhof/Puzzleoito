@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\Puzzleoito\Puzzleoito\obj\Debug\Puzzleoito.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Puzzleoito\Puzzleoito\bin\Debug\Puzzleoito.exe.config
+C:\Users\Pichau\source\repos\Puzzleoito\Puzzleoito\bin\Debug\Puzzleoito.exe
+C:\Users\Pichau\source\repos\Puzzleoito\Puzzleoito\bin\Debug\Puzzleoito.pdb
+C:\Users\Pichau\source\repos\Puzzleoito\Puzzleoito\obj\Debug\Puzzleoito.exe
+C:\Users\Pichau\source\repos\Puzzleoito\Puzzleoito\obj\Debug\Puzzleoito.pdb
+C:\Users\Pichau\source\repos\Puzzleoito\Puzzleoito\obj\Debug\Puzzleoito.csprojResolveAssemblyReference.cache
